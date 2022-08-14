@@ -15,11 +15,11 @@
 None. The name **GAUKAS** was originally picked from a long pseudorandom string for the nickname to be used in a video game. 
 
 ### Skillset
-[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_go.png" width="64"/>](https://go.dev/)
-[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_rust.png" width="64"/>](https://www.rust-lang.org/)
-[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_python.png" width="64"/>](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_nodejs.png" width="64"/>](https://nodejs.org/)
-[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_wasm.png" width="64"/>](https://webassembly.org/)
+[<img src="https://raw.githubusercontent.com/gaukas/gaukas/master/profile/images/logo_go.png" width="64"/>](https://go.dev/)
+[<img src="https://raw.githubusercontent.com/gaukas/gaukas/master/profile/images/logo_rust.png" width="64"/>](https://www.rust-lang.org/)
+[<img src="https://raw.githubusercontent.com/gaukas/gaukas/master/profile/images/logo_python.png" width="64"/>](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/gaukas/gaukas/master/profile/images/logo_nodejs.png" width="64"/>](https://nodejs.org/)
+[<img src="https://raw.githubusercontent.com/gaukas/gaukas/master/profile/images/logo_wasm.png" width="64"/>](https://webassembly.org/)
 
 ### Hacker?
 - [CVE-2021-28681](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-28681): MITM Vulnerability in DTLS Connections in [pion/webrtc](https://github.com/pion/webrtc), [GitHub Issue](https://github.com/pion/webrtc/issues/1708)
