@@ -1,16 +1,26 @@
-### Hi there 👋
+## [Gaukas](https://github.com/Gaukas) Wang, a Cybersecurity Researcher & Computer Engineer
 
-<!--
-**Gaukas/Gaukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--[![Gaukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaukas)](https://github.com/anuraghazra/github-readme-stats)-->
 
-Here are some ideas to get you started:
+### Identity 
+- [Curriculum Vitae](https://gauk.as/cv)  
+- [Resume](https://gauk.as/resume) 
+- [LinkedIn](https://www.linkedin.com/in/gaukaswang/)
+- Portfolio: [Gaukas.Wang](https://gaukas.wang) 
+- Email: [i@gaukas.wang](mailto:i@gaukas.wang)
+- Telegram: [@GaukasWang](https://t.me/GaukasWang) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Namesake
+None. The name **GAUKAS** was originally picked from a long pseudorandom string for the nickname to be used in a video game. 
+
+### Skillset
+[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_go.png" width="64"/>](https://go.dev/)
+[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_rust.png" width="64"/>](https://www.rust-lang.org/)
+[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_python.png" width="64"/>](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_nodejs.png" width="64"/>](https://nodejs.org/)
+[<img src="https://raw.githubusercontent.com/Gaukas/Gaukas/master/profile/images/logo_wasm.png" width="64"/>](https://webassembly.org/)
+
+### Hacker?
+- [CVE-2021-28681](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-28681): MITM Vulnerability in DTLS Connections in [pion/webrtc](https://github.com/pion/webrtc), [GitHub Issue](https://github.com/pion/webrtc/issues/1708)
+- Unrestricted file access in [instructure/canvas-lms](https://github.com/instructure/canvas-lms), [GitHub Issue](https://github.com/instructure/canvas-lms/issues/1905), [PoC](https://github.com/Gaukas/instructure-canvas-file-oracle)
